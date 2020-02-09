@@ -1,6 +1,3 @@
-
-#Tarea
-
 <script type="text/javascript">  
 var mes;
 var nombre;
